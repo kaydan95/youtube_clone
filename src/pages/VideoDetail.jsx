@@ -18,7 +18,7 @@ function VideoDetail() {
           type="text/html"
           width="100%"
           height="540"
-          src={`http://www.youtube-nocookie.com/embed/${video.id}`}
+          src={`https://www.youtube-nocookie.com/embed/${video.id}`}
           frameBorder="0"
           title={title}
         />
