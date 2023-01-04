@@ -1,6 +1,6 @@
 # :tv: Youtube_Clone [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-<img src="https://user-images.githubusercontent.com/85853145/210492588-1b0f67e4-6cdf-44a4-9228-a9db1542b5f2.png" width="1000" height="600">
+<img src="https://user-images.githubusercontent.com/85853145/210492588-1b0f67e4-6cdf-44a4-9228-a9db1542b5f2.png" width="1000" height="500">
 
 ## Summary / 요약
 
@@ -17,7 +17,7 @@
 - 실제 유튜브 페이지 우측에 있는 nav 바를 구현하는 것과 채널 프로필 이미지와 채널명, 영상 제목 등의 배치도 실제와 유사하게 구현했다. 간단한 작업이지만 그래도 보이는게 비슷하니 마음이 편해지는 그런 느낌..?
 
 ### 2. 반응형
-<img src="https://user-images.githubusercontent.com/85853145/210500073-3349efda-b891-45b6-8380-eaad82f32407.gif" width="1000" height="600">
+<img src="https://user-images.githubusercontent.com/85853145/210500073-3349efda-b891-45b6-8380-eaad82f32407.gif" width="1000" height="500">
 
 - 이전까지는 잘 와닿지 않았던 tailwind css 의 장점을 최대로 느낄 수 있었던 부분!
 ```javascript
