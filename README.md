@@ -9,7 +9,7 @@
 - **메인 개발 환경** : React / JavaScript
 - **Data Api** : [Youtube Api](https://developers.google.com/youtube/v3)
 - **Publish** : [유튜브_클론](https://kyoutube.netlify.app/)
-- **프로젝트 정리노트** : [유튜브_클론 프로젝트 정리노트](https://www.notion.so/Netflix_clone-d45cb519d6384de3b7accb2295ab33eb)
+- **프로젝트 정리노트** : [유튜브_클론 프로젝트 정리노트](https://www.notion.so/Youtube_clone-850cf7208b0641189658172108ea4cd0)
 
 ## Features
 ### 1. UI
